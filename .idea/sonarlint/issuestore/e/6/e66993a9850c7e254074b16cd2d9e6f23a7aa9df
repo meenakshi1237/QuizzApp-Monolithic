@@ -1,0 +1,7 @@
+
+m
+java:S1612"KReplace this lambda with method reference 'QuestionNotFoundException::new'.(ö©À¡üÿÿÿÿ8»¢½¯“2
+g
+java:S1128	"ERemove this unused import 'org.apache.tomcat.util.http.ResponseUtil'.(û¢ÿÛýÿÿÿÿ8À¢½¯“2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8À¢½¯“2
